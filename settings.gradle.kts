@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BasicStateCodelab"
 include(":app")
+ 
